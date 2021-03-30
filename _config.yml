@@ -1,0 +1,80 @@
+---
+booktitle: Proceedings of the Tenth International Workshop on Artificial Intelligence
+  and Statistics
+shortname: AISTATS
+start: 2005-01-06
+end: 2005-01-08
+url: http://proceedings.mlr.press
+firstpublished: 2005-01-06
+published: 2021-03-30
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: aistats2005
+month: 0
+cycles: false
+bibtex_editor: Cowell, Robert G. and Ghahramani, Zoubin
+editor:
+- given: Robert G.
+  family: Cowell
+- given: Zoubin
+  family: Ghahramani
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Tenth International Workshop on Artificial Intelligence and Statistics
+    Held in Savannah Hotel, Barbados on 06-08 January 2005
+
+  Published as Reissue 5 by the Proceedings of Machine Learning Research on 30 March 2021.
+
+  Volume Edited by:
+    Robert G. Cowell
+    Zoubin Ghahramani
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 06--08 Jan
+author:
+  name: PMLR
+baseurl: "/r5"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: r5
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Reissue
+volume_dir: r5
+volume: R5
+email: ''
+conference:
+  name: International Workshop on Artificial Intelligence and Statistics
+  url:
+  location: Savannah Hotel, Barbados
+  dates:
+  - 2005-01-06
+  - 2005-01-07
+  - 2005-01-08
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/r5/aistats2005.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/r5/aistats2005.bib
