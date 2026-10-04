@@ -18,11 +18,11 @@ editor:
   family: Cowell
 - given: Zoubin
   family: Ghahramani
-bibtex_author: Carreira-Perpi{\~n}\'an, Miguel \'A. and Hinton, Geoffrey
+bibtex_author: Carreira-Perpi{\~n}\'an, Miguel \'A. and Hinton, Geoffrey E.
 author:
 - given: Miguel Á.
   family: Carreira-Perpiñán
-- given: Geoffrey
+- given: Geoffrey E.
   family: Hinton
 date: 2005-01-06
 note: Reissued by PMLR on 30 March 2021.
